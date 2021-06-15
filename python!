@@ -1,0 +1,750 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Challenges!",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyMJEVZ/o4NySwazwM1mfV2L",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/theunknowncoder114/-fairy-and-star-/blob/main/python!\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "w5RaYiljuWTs"
+      },
+      "source": [
+        "***Today:*** \n",
+        "\n",
+        "I will be challenging you by asking questions about yourself and you have to get the output in python  (some will be about python and answers will be at the bottom of this page but will be restricted until you complete it.)\n",
+        "\n",
+        "\n",
+        "This is just for fun so don't worry if you get something wrong!"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "IYDUeGjkvW5M"
+      },
+      "source": [
+        "**Challenge 1**\n",
+        "\n",
+        "Introduce yourself to Python.\n",
+        "hint-remember the functions!"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "Yk5kElpwwDfq"
+      },
+      "source": [
+        "# Write in the next line(s)!\n",
+        "\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "2iKpODFxx_iY"
+      },
+      "source": [
+        "**Challenge 2**\n",
+        "\n",
+        "Create a code to enter your name, surname and email id(a.k.a apple id or gmail accout or yahoo or whatever) and create something to enter it in!\n",
+        "\n",
+        "hint-remember `input()`!"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "u_pcBJpw38Af"
+      },
+      "source": [
+        "# You can do this!\n",
+        "\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "NMjbfr5XDIq2"
+      },
+      "source": [
+        "**Challenge 3**\n",
+        "\n",
+        "Create a shopping list!\n",
+        "hint- No need for a hint, this is easy as long as you remember the square brackets!"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "kxC5e09iDewX"
+      },
+      "source": [
+        "# Good job so far!\n",
+        "\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "97C-Z3KxD5Iz"
+      },
+      "source": [
+        "**Challenge 4**\n",
+        "\n",
+        "Make a 2D&3D list! \n",
+        "hint-same as challenge 3"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "LlTSvmMsEcy8"
+      },
+      "source": [
+        "# Answer right here!"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "V6Qp3KQaEo9w"
+      },
+      "source": [
+        "**Challenge 5**\n",
+        "\n",
+        "Use list comprehension in your own way! hint-maybe use a loop and a random list!\n",
+        "\n",
+        "```\n",
+        "my_fav_foods = [add your favourite foods (btw this is a list example you can use, but you don't have to!)!!!!!!!!!!!!!!!1]\n",
+        "\n",
+        "```\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "YhjWUGg3JYWK"
+      },
+      "source": [
+        "**Challenge 6**\n",
+        "\n",
+        "Make a simple mind reader game with a player and computer. Hint - this is one of the hardest challenges here, so there will be plenty hints. Hint 1: remeber your for & while loops. Hint 2: use the randit & input functions. \n",
+        "\n",
+        "```\n",
+        "#Hint 3 is\n",
+        "import ???\n",
+        "\n",
+        "```\n",
+        "What do you have to import?\n",
+        "  "
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "uyvwQFLRKx3Z"
+      },
+      "source": [
+        "# Good luck, you'll need it!\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "xUevvC1eK_ch"
+      },
+      "source": [
+        "**Challenge 7**\n",
+        "\n",
+        "Put three lists together into a 3D list.Hint - I want to try challenge you, **so from now onwards no more hints!** "
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "o09zH6jpLvqT"
+      },
+      "source": [
+        "# I know I'm mean, right?\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "BgyfTxXmL5Jj"
+      },
+      "source": [
+        "**Challenge 8**\n",
+        "\n",
+        "Name all the things you have learnt so far in the below code cell!"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "gnHCNhcsMNiL"
+      },
+      "source": [
+        "# \n",
+        "#\n",
+        "#\n",
+        "#\n",
+        "#\n",
+        "#\n",
+        "#\n",
+        "#\n",
+        "#\n",
+        "#\n",
+        "#\n",
+        "#\n",
+        "#"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "kAuvplkcN41u"
+      },
+      "source": [
+        "**Challenge 9**\n",
+        "\n",
+        "Create your own complex game!\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "xHAHSv6EOF4Q"
+      },
+      "source": [
+        "# Write here!\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "qUanATiOONqj"
+      },
+      "source": [
+        "***Answers***\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "No peeking!\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "Or you don't like a challenge???? Or are you finished?\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "y0AwoqAKPOW-"
+      },
+      "source": [
+        "-------------------------------------------------------\n",
+        "Challenge 1"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "-MO49l8YOWaF",
+        "outputId": "5a1858ae-f033-45bd-9c98-ab489a1f1e60"
+      },
+      "source": [
+        "print(\"Hi Python! My name is (your name) and I'm (your age) years old.\")"
+      ],
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "Hi Python! My name is (your name) and I'm (your age) years old.\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "4c6KnsWIPeTy"
+      },
+      "source": [
+        "Challenge 2  "
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 130
+        },
+        "id": "1SVrqnJ3PjMy",
+        "outputId": "2b178ecf-91e2-4a59-f188-6a721d06d274"
+      },
+      "source": [
+        "My_name = input(\"Enter your fore name: \")\n",
+        "my_email_id = input('Enter your email id: ')\n",
+        "print(\"Hello\", My_name \"your email id is \" my_email_id)??"
+      ],
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "ignored",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-8-f48aa922db18>\"\u001b[0;36m, line \u001b[0;32m3\u001b[0m\n\u001b[0;31m    print(\"Hello\", My_name \"your email id is \" my_email_id)\u001b[0m\n\u001b[0m                                             ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "jYbO7gVQSKr4"
+      },
+      "source": [
+        "Leave that, I am sure that is right, however you may want to talk to someone  who is fluent in python about this if this happens to you as well."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "z3lkgc-VSx6f"
+      },
+      "source": [
+        "------------------------------------------------------------------------------\n",
+        "**Challenge 3**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "H8QCFNTSS331",
+        "outputId": "b80af9dc-0923-45d0-869e-71457299bf2f"
+      },
+      "source": [
+        "Shopping_list = ['cheese, milk, butter, fruit and veg, bread and chocolate']\n",
+        "print(Shopping_list)"
+      ],
+      "execution_count": 9,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "['cheese, milk, butter, fruit and veg, bread and chocolate']\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "9vEmert5T-HV"
+      },
+      "source": [
+        "**Challenge 4**\n",
+        "\n",
+        "Examples"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "-SMFNskhVgaI"
+      },
+      "source": [
+        "planet_data = [[\"mercury\", 10, 78.69, False]\n",
+        "               [\"venus\", 1489, 95.826, False]\n",
+        "               [\"earth\", 2576, 109.5766, False]\n",
+        "               [\"saturn\", 10986, 5686.4575474797646793972635, True]\n",
+        "              [\"uranus\", 343598, 6997.869098670876, True]]\n",
+        "\n",
+        "i = [[[123,124,125]\n",
+        "      [133,134,135]\n",
+        "      [143,144,145]\n",
+        "\n",
+        "      [223,234,235]\n",
+        "      [243,244,245]\n",
+        "      [253,254,255]\n",
+        "\n",
+        "      [323,334,335]\n",
+        "      [343,344,345]\n",
+        "      [353,354,355]]]              "
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "FifJGNplXVrr"
+      },
+      "source": [
+        "**Challenge 6**"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "jkE7NdiKXZXL",
+        "outputId": "499e5297-f79a-4c9e-d5a6-046c55e944ad"
+      },
+      "source": [
+        "import random\n",
+        "player_score = 0\n",
+        "computer_score = 0\n",
+        "valid_entries = [0,1]\n",
+        "while True:\n",
+        "  predict = random.randint(0,1)\n",
+        "  \n",
+        "\n",
+        "  \n",
+        "  player_input = input(\"Please enter heads or tails, heads is 0, tails is 1: \")\n",
+        "  player_input = int(player_input)\n",
+        "  while player_input not in valid_entries:\n",
+        "    print(\"Invalid Input!\")\n",
+        "    player_input = input(\"Please enter either 0 or 1: \")\n",
+        "    player_input = int(player_input)\n",
+        "  print('you entered:, ', player_input)\n",
+        "  print('computer predicted', predict)\n",
+        "  if predict == player_input:\n",
+        "    computer_score = computer_score + 1\n",
+        "  else: \n",
+        "    player_score = player_score + 1\n",
+        "  print(\"computer score \", computer_score, \"player score \", player_score)  \n",
+        "  if computer_score == 10:\n",
+        "    print(\"Bad Luck, Computer Wins!\")\n",
+        "    break\n",
+        "  elif player_score == 10:\n",
+        "    print(\"Congrats, You Won!\")\n",
+        "    break"
+      ],
+      "execution_count": 13,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "Please enter heads or tails, heads is 0, tails is 1: 9\n",
+            "Invalid Input!\n",
+            "Please enter either 0 or 1: 1\n",
+            "you entered:,  1\n",
+            "computer predicted 1\n",
+            "computer score  1 player score  0\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 0\n",
+            "you entered:,  0\n",
+            "computer predicted 1\n",
+            "computer score  1 player score  1\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 1\n",
+            "you entered:,  1\n",
+            "computer predicted 1\n",
+            "computer score  2 player score  1\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 0\n",
+            "you entered:,  0\n",
+            "computer predicted 1\n",
+            "computer score  2 player score  2\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 1\n",
+            "you entered:,  1\n",
+            "computer predicted 1\n",
+            "computer score  3 player score  2\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 0\n",
+            "you entered:,  0\n",
+            "computer predicted 0\n",
+            "computer score  4 player score  2\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 1\n",
+            "you entered:,  1\n",
+            "computer predicted 1\n",
+            "computer score  5 player score  2\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 0\n",
+            "you entered:,  0\n",
+            "computer predicted 1\n",
+            "computer score  5 player score  3\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 1\n",
+            "you entered:,  1\n",
+            "computer predicted 0\n",
+            "computer score  5 player score  4\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 0\n",
+            "you entered:,  0\n",
+            "computer predicted 0\n",
+            "computer score  6 player score  4\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 1\n",
+            "you entered:,  1\n",
+            "computer predicted 0\n",
+            "computer score  6 player score  5\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 0\n",
+            "you entered:,  0\n",
+            "computer predicted 0\n",
+            "computer score  7 player score  5\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 1\n",
+            "you entered:,  1\n",
+            "computer predicted 0\n",
+            "computer score  7 player score  6\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 0\n",
+            "you entered:,  0\n",
+            "computer predicted 1\n",
+            "computer score  7 player score  7\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 1\n",
+            "you entered:,  1\n",
+            "computer predicted 1\n",
+            "computer score  8 player score  7\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 0\n",
+            "you entered:,  0\n",
+            "computer predicted 1\n",
+            "computer score  8 player score  8\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 0\n",
+            "you entered:,  0\n",
+            "computer predicted 1\n",
+            "computer score  8 player score  9\n",
+            "Please enter heads or tails, heads is 0, tails is 1: 1\n",
+            "you entered:,  1\n",
+            "computer predicted 0\n",
+            "computer score  8 player score  10\n",
+            "Congrats, You Won!\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "HFrMPm9jXvmu"
+      },
+      "source": [
+        "No more answers!\n",
+        "\n",
+        "Well done for getting it right(if you did) and good try if you didn't get all of them right. If you didn't, this is only for fun and maybe people can help you learn more Python! Hope you enjoyed yourself and use this wisely, for i spent ages making it. Ask if you ever need more props, teachers. And students, ask if you want more challenges! You deserve chocolates! Bye for now! "
+      ]
+    }
+  ]
+}
